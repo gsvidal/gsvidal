@@ -12,9 +12,9 @@ You can reach me in these platforms:
     <img src="https://i.postimg.cc/0QMFT0g8/instagram.png" alt="Gonzalo Vidal's LinkedIn Profile" height="30" width="30">
 </a>
 
-## About me
-Industrial Engineer at Universidad Nacional Mayor de San Marcos (UNMSM) / Top Fifth.
-Front-End Developer with React and strong fundamentals.
+## Background
+Industrial Engineer at Universidad Nacional Mayor de San Marcos (UNMSM) / Top Fifth.\
+React Front-End Developer with strong fundamentals.
 
 ## Personal projects
 My portfolio: 
@@ -26,10 +26,33 @@ My portfolio:
 ## Team projects (Member & Co-Founder at BitHug Community)
 
 BitHug Portfolio:
-<a href="https://git-hub.com">
-  <img src="https://i.postimg.cc/R0ZtsZxq/Z7x9Riw.gif" width="50">
-</a>
 
+<a href="https://git-hub.com">
+  <img src="https://i.postimg.cc/Z51M9sQK/logo-2.png" width="50">
+</a>
+<br />
+<br />
+
+BitHub projects in which I participated:
+
+<a href="https://bit-hug-learning.github.io/codacy-code-project/public/">
+  <img src="https://i.postimg.cc/dQrCjkpQ/preview.png" width="300">
+</a>
+<a href="https://apikachu.bit-hug.com/">
+  <img src="https://i.postimg.cc/mrKcQBSF/preview.png" width="300">
+</a>
+<a href="">
+  <img src="https://i.postimg.cc/VsqSCy0d/bitblog-preview.png" width="300">
+</a>
+<br />
+<br />
+
+
+BitHub projects in which I led and mentored the team:
+
+<a href="https://bit-hug-learning.github.io/blogr/public/">
+  <img src="https://i.postimg.cc/DyStNhQz/preview.png" width="300">
+</a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gsvidal&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D&background=141439&fire=DD4919&dates=DD8181&ring=DD731E)](https://git.io/streak-stats)
 
