@@ -37,7 +37,7 @@ React Front-End Developer with strong fundamentals.
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gsvidal&show_icons=true&theme=outrun" alt="gsvidal :: Profile Stats" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=gsvidal&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D&background=141439&fire=DD4919&dates=DD8181&ring=DD731E" alt="gsvidal :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=gsvidal&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D&ring=DD513B&fire=DD2727&background=141439&border=DDDDDD&dates=DD8375" alt="gsvidal :: Profile Stats" /></p>
 
 ## Individual projects
 My Portfolio: 
