@@ -15,9 +15,32 @@ You can reach me in these platforms:
 ## Background
 Industrial Engineer at Universidad Nacional Mayor de San Marcos (UNMSM) / Top Fifth.\
 React Front-End Developer with strong fundamentals.
+<br />
 
-## Personal projects
-My portfolio: 
+## Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5 Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3 Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm Logo" width="50" height="50"/>
+<br />
+<br />
+
+## Some GitHub Stats:
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsvidal&langs_count=10&theme=outrun&layout=compact" alt="gsvidal :: Top Langs" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gsvidal&show_icons=true&theme=outrun" alt="gsvidal :: Profile Stats" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=gsvidal&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D&background=141439&fire=DD4919&dates=DD8181&ring=DD731E" alt="gsvidal :: Profile Stats" /></p>
+
+## Individual projects
+My Portfolio: 
 
 <a href="https://gsvidal.github.io">
   <img src="https://i.postimg.cc/R0ZtsZxq/Z7x9Riw.gif" width="50">
@@ -76,31 +99,13 @@ BitHug Platforms:
 <br />
 <br />
 
-🧰 Toolbox
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5 Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3 Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm Logo" width="50" height="50"/>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsvidal&langs_count=10&theme=outrun&layout=compact" alt="gsvidal :: Top Langs" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gsvidal&show_icons=true&theme=outrun" alt="gsvidal :: Profile Stats" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=gsvidal&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D&background=141439&fire=DD4919&dates=DD8181&ring=DD731E" alt="gsvidal :: Profile Stats" /></p>
-
 ## Interesting things about me:
 
-- 🔭 I study everyday to land a job as a Front-End Developer at a good company.
-- 🌱 I’m good at math, logic and design.
-- 👯 I’m a team player: "Alone I can go fast but together we can go FAR".
+- 🎖️ I study everyday to land a job as a Front-End Developer at a great company.
+- 🧠 I’m good at math, logic and design.
+- 🤝 I’m a team player: "Alone I can go fast but together we can go FAR".
 - 🤔 I like to understand how things work (and why).
-- 💬 I like to teach others what I know. Also asking when is necessary.
-- 😄 Soft-skills: Respect, Empathy, creative thinking, problem-solving oriented.
-- ⚡ Hobbies: Fitness(Workout, running, healthy food).
+- 👨‍🏫	I like to teach others what I know. Also asking when is necessary.
+- 😃 Soft-skills: Respect, Empathy, creative thinking, problem-solving oriented.
+- 🏃 Hobbies: Fitness(Workout, running, healthy food), cooking Peruvian food and PC hardware enthusiast.
 
