@@ -2,7 +2,7 @@
 
 ## Background
 Industrial Engineer at Universidad Nacional Mayor de San Marcos (UNMSM) / Top Fifth.\
-React Front-End Developer with strong fundamentals.
+React Front-End Developer with strong web fundamentals (HTML, CSS & JS).
 <br />
 
 ## Toolbox
