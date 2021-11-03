@@ -1,17 +1,5 @@
 # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Gonzalo Vidal！
 
-You can reach me in these platforms:
-
-<a href="https://www.linkedin.com/in/gsvidal/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Gonzalo Vidal's LinkedIn Profile" height="30" width="30">
-</a>
-<a href="https://torre.co/en/gsvidal?s=loqGHPTaSq">
-    <img src="https://i.postimg.cc/dt2PQ6h3/torre.png" alt="Gonzalo Vidal's Torre Profile" height="30" width="30">
-</a>
-<a href="https://www.instagram.com/gsvidal.web/">
-    <img src="https://i.postimg.cc/0QMFT0g8/instagram.png" alt="Gonzalo Vidal's LinkedIn Profile" height="30" width="30">
-</a>
-
 ## Background
 Industrial Engineer at Universidad Nacional Mayor de San Marcos (UNMSM) / Top Fifth.\
 React Front-End Developer with strong fundamentals.
@@ -28,6 +16,8 @@ React Front-End Developer with strong fundamentals.
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm Logo" width="50" height="50"/>
+<img src="https://i.postimg.cc/mgvssKVP/materialize.png" alt="npm Logo" width="50" height="50"/>
+<img src="https://i.postimg.cc/MZM45ndS/scrum.png" alt="npm Logo" width="50" height="50" />
 <br />
 <br />
 
@@ -56,7 +46,7 @@ BitHug Portfolio:
 <br />
 <br />
 
-BitHub projects in which I participated:
+BitHug projects in which I participated:
 
 <a href="https://bit-hug-learning.github.io/codacy-code-project/public/">
   <img src="https://i.postimg.cc/dQrCjkpQ/preview.png" width="200">
@@ -70,7 +60,7 @@ BitHub projects in which I participated:
 <br />
 <br />
 
-BitHub projects in which I led and mentored the team:
+BitHug projects in which I led and mentored the team:
 
 <a href="https://bit-hug-learning.github.io/blogr/public/">
   <img src="https://i.postimg.cc/DyStNhQz/preview.png" width="200">
@@ -108,4 +98,17 @@ BitHug Platforms:
 - 👨‍🏫	I like to teach others what I know. Also asking when is necessary.
 - 😃 Soft-skills: Respect, Empathy, creative thinking, problem-solving oriented.
 - 🏃 Hobbies: Fitness(Workout, running, healthy food), cooking Peruvian food and PC hardware enthusiast.
+
+
+You can reach me in these platforms:
+
+<a href="https://www.linkedin.com/in/gsvidal/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Gonzalo Vidal's LinkedIn Profile" height="30" width="30">
+</a>
+<a href="https://torre.co/en/gsvidal?s=loqGHPTaSq">
+    <img src="https://i.postimg.cc/dt2PQ6h3/torre.png" alt="Gonzalo Vidal's Torre Profile" height="30" width="30">
+</a>
+<a href="https://www.instagram.com/gsvidal.web/">
+    <img src="https://i.postimg.cc/0QMFT0g8/instagram.png" alt="Gonzalo Vidal's LinkedIn Profile" height="30" width="30">
+</a>
 
