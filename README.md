@@ -96,7 +96,7 @@ BitHug Platforms:
 - 🤝 I’m a team player: "Alone I can go fast but together we can go FAR".
 - 🤔 I like to understand how things work (and why).
 - 👨‍🏫	I like to teach others what I know. Also asking when is necessary.
-- 😃 Soft-skills: Respect, Empathy, creative thinking, problem-solving oriented.
+- 😃 Soft-skills: Respect, Empathy, Self-discipline, Creative thinking, Problem-solving/Client oriented.
 - 🏃 Hobbies: Fitness(Workout, running, healthy food), cooking Peruvian food and PC hardware enthusiast.
 
 
