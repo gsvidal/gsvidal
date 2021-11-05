@@ -40,7 +40,7 @@ My Portfolio:
 
 BitHug Portfolio:
 
-<a href="https://git-hub.com">
+<a href="https://Bit-huG.com">
   <img src="https://i.postimg.cc/Z51M9sQK/logo-2.png" width="50">
 </a>
 <br />
