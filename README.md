@@ -13,7 +13,6 @@ React Front-End Developer with strong web fundamentals (HTML, CSS & JS).
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm Logo" width="50" height="50"/>
 <img src="https://i.postimg.cc/mgvssKVP/materialize.png" alt="npm Logo" width="50" height="50"/>
