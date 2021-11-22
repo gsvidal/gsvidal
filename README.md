@@ -88,7 +88,7 @@ BitHug Platforms:
 <br />
 <br />
 
-## Interesting facts about me:
+## Fun facts about me:
 
 - 🎖️ I study everyday to land a job as a Front-End Developer at a great company.
 - 🧠 I’m good at math, logic and design.
