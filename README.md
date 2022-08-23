@@ -1,8 +1,7 @@
 # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Gonzalo Vidal！
 
 ## Background
-Industrial Engineer at Universidad Nacional Mayor de San Marcos (UNMSM) / Top Fifth.\
-React Front-End Developer with strong web fundamentals (HTML, CSS & JS).
+Front-End Developer
 <br />
 
 ## Toolbox
