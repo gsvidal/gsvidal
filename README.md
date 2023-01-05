@@ -1,6 +1,6 @@
 # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Gonzalo Vidal！
 
-**Front-End React Developer**
+### Front-End React Developer
 
 ## Certifies
 
