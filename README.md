@@ -60,7 +60,7 @@
 
 
 ## Experience (Web UI Developer SSr. at Globant)
-<a rel="noopener" target="_blank" href="https://learndigital.withgoogle.com/activate/validate-certificate-code">
+<a rel="noopener" target="_blank" href="https://www.globant.com/">
   <img src="https://seekvectorlogo.com/wp-content/uploads/2019/06/globant-vector-logo.png" alt="Globant Logo" width="150" title="Globant Logo">
 </a>
 <br />
