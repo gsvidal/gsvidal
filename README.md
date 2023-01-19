@@ -8,22 +8,19 @@
   <img src="https://lh3.googleusercontent.com/5-yf7s6KGhPFu3hm8UwGnOwloyrEK5hVervmLKfbU1YVj5qwr0dqZ-I2BaleZ14smfc8sjIhnqHbmjS7VFAMZZwS9UQK_RlX6bFmAB8=-rw" alt="Google Certificates - 2 parts" width="120" title="Google - Web Development I & II Certificates">
 </a>
 <br />
-<br />
 
 <a class="certificates__icons-item" rel="noopener" target="_blank" href="https://platzi.com/p/gonzalovidal2020/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Platzi.jpg/1200px-Platzi.jpg" alt="Platzi Certificates" width="120" title="Platzi: +30 Web Development Certificates">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Platzi.jpg/1200px-Platzi.jpg" alt="Platzi Certificates" width="100" title="Platzi: +30 Web Development Certificates">
 </a>
-<br />
 <br />
 
 <a class="certificates__icons-item" rel="noopener" target="_blank" href="https://www.udemy.com/certificate/UC-689f3797-fd77-49ac-8350-a525e8dd6ffd/">
-  <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy Certificates" width="120" title="Udemy Certificate">
+  <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy Certificates" width="100" title="Udemy Certificate">
 </a>
-<br />
 <br />
 
 <a class="certificates__icons-item" rel="noopener" target="_blank" href="https://www.credly.com/badges/233abc1a-291e-43b4-9aa4-0d97c5d0297f/linked_in?t=rhm3ox">
-        <img src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" alt="CertiProf Certificates" width="120" title="CertiProf: Scrum Foundation Certificate">
+        <img src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" alt="CertiProf Certificates" width="100" title="CertiProf: Scrum Foundation Certificate">
 </a>
 <br />
 <br />
