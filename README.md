@@ -49,6 +49,10 @@
 
 ## Some GitHub Stats:
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsvidal&langs_count=10&theme=outrun&layout=compact" alt="gsvidal :: Top Langs" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gsvidal&show_icons=true&theme=outrun" alt="gsvidal :: Profile Stats" /></p>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=gsvidal&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D&ring=DD513B&fire=DD2727&background=141439&border=DDDDDD&dates=DD8375" alt="gsvidal :: Profile Stats" /></p>
 
 ## Experience (Web UI Developer SSr. at Globant)
