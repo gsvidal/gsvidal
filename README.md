@@ -40,10 +40,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm Logo" width="50" height="50"/>
-<img src="https://i.postimg.cc/mgvssKVP/materialize.png" alt="npm Logo" width="50" height="50"/>
 <img src="https://i.postimg.cc/MZM45ndS/scrum.png" alt="npm Logo" width="50" height="50" />
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="Jira Logo" width="50" height="50" />
-<img src="http://getbem.com/assets/b_.svg" alt="BEM Logo" width="50" height="50" />
+<img src="https://devopedia.org/images/article/152/3612.1549627952.png" alt="BEM Logo" width="50" height="50" />
 <br />
 <br />
 
