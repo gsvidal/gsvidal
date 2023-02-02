@@ -2,26 +2,22 @@
 
 ### Front-End React Developer
 
-## Certifies
+## Certificates
 
-<a rel="noopener" target="_blank" href="https://learndigital.withgoogle.com/activate/validate-certificate-code">
-  <img src="https://lh3.googleusercontent.com/5-yf7s6KGhPFu3hm8UwGnOwloyrEK5hVervmLKfbU1YVj5qwr0dqZ-I2BaleZ14smfc8sjIhnqHbmjS7VFAMZZwS9UQK_RlX6bFmAB8=-rw" alt="Google Certificates - 2 parts" width="120" title="Google - Web Development I & II Certificates">
+<a style="margin: 10px" rel="noopener" target="_blank" href="https://learndigital.withgoogle.com/activate/validate-certificate-code">
+  <img align=center src="https://lh3.googleusercontent.com/5-yf7s6KGhPFu3hm8UwGnOwloyrEK5hVervmLKfbU1YVj5qwr0dqZ-I2BaleZ14smfc8sjIhnqHbmjS7VFAMZZwS9UQK_RlX6bFmAB8=-rw" alt="Google Certificates - 2 parts" width="120" title="Google - Web Development I & II Certificates">
 </a>
-<br />
-
 <a class="certificates__icons-item" rel="noopener" target="_blank" href="https://platzi.com/p/gonzalovidal2020/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Platzi.jpg/1200px-Platzi.jpg" alt="Platzi Certificates" width="100" title="Platzi: +30 Web Development Certificates">
+  <img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Platzi.jpg/1200px-Platzi.jpg" alt="Platzi Certificates" width="100" title="Platzi: +30 Web Development Certificates">
 </a>
-<br />
-
 <a class="certificates__icons-item" rel="noopener" target="_blank" href="https://www.udemy.com/certificate/UC-689f3797-fd77-49ac-8350-a525e8dd6ffd/">
-  <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy Certificates" width="100" title="Udemy Certificate">
+  <img align=center src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy Certificates" width="100" title="Udemy Certificate">
 </a>
-<br />
-
 <a class="certificates__icons-item" rel="noopener" target="_blank" href="https://www.credly.com/badges/233abc1a-291e-43b4-9aa4-0d97c5d0297f/linked_in?t=rhm3ox">
-        <img src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" alt="CertiProf Certificates" width="100" title="CertiProf: Scrum Foundation Certificate">
+  <img align=center src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" alt="CertiProf Certificates" width="100" title="CertiProf: Scrum Foundation Certificate">
 </a>
+
+
 <br />
 <br />
 
@@ -74,7 +70,7 @@ BitHug Portfolio:
 <br />
 <br />
 
-BitHug projects in which I participated:
+BitHug projects in which I participated and some which I led/mentored:
 
 <a href="https://bit-hug-learning.github.io/codacy-code-project/public/">
   <img src="https://i.postimg.cc/dQrCjkpQ/preview.png" width="200">
@@ -85,11 +81,6 @@ BitHug projects in which I participated:
 <a href="">
   <img src="https://i.postimg.cc/VsqSCy0d/bitblog-preview.png" width="200">
 </a>
-<br />
-<br />
-
-BitHug projects in which I led and mentored the frontend team:
-
 <a href="https://bit-hug-learning.github.io/blogr/public/">
   <img src="https://i.postimg.cc/DyStNhQz/preview.png" width="200">
 </a>
