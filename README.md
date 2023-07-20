@@ -52,67 +52,28 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=gsvidal&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D&ring=DD513B&fire=DD2727&background=141439&border=DDDDDD&dates=DD8375" alt="gsvidal :: Profile Stats" /></p>
 
-## Experience (Web UI Developer SSr. at Globant)
+## Experience 
+
+<a href="https://Bit-huG.com">
+  <img src="https://i.postimg.cc/Z51M9sQK/logo-2.png" width="80">
+</a>
+<p>Jr. Frontend Web Developer</p>
+
+<br />
+
 <a rel="noopener" target="_blank" href="https://www.globant.com/">
   <img src="https://seekvectorlogo.com/wp-content/uploads/2019/06/globant-vector-logo.png" alt="Globant Logo" width="150" title="Globant Logo">
 </a>
-<br />
-<br />
+<p>SSr. Web UI Developer</p>
 
-### Side Projects:
-## Team projects (Member & Co-Founder at BitHug Community)
-
-BitHug Portfolio:
-
-<a href="https://Bit-huG.com">
-  <img src="https://i.postimg.cc/Z51M9sQK/logo-2.png" width="50">
-</a>
-<br />
 <br />
 
-BitHug projects in which I participated and some which I led/mentored:
-
-<a href="https://bit-hug-learning.github.io/codacy-code-project/public/">
-  <img src="https://i.postimg.cc/dQrCjkpQ/preview.png" width="200">
-</a>
-<a href="https://apikachu.bit-hug.com/">
-  <img src="https://i.postimg.cc/mrKcQBSF/preview.png" width="200">
-</a>
-<a href="">
-  <img src="https://i.postimg.cc/VsqSCy0d/bitblog-preview.png" width="200">
-</a>
-<a href="https://bit-hug-learning.github.io/blogr/public/">
-  <img src="https://i.postimg.cc/DyStNhQz/preview.png" width="200">
-</a>
-<br />
-<br />
-
-BitHug Platforms:
-
-<a href="https://www.linkedin.com/company/79645664/admin/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="BitHug's LinkedIn Profile" height="30" width="30">
-</a>
-<a href="https://github.com/bit-hug-learning">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="BitHug's LinkedIn Profile" height="30" width="30">
-</a>
-
-<a href="https://www.notion.so/Bit-Hug-69996abb6855486f9140527aa6b39445">
-    <img src="https://i.postimg.cc/GhjhrNXY/clipart1228054.png" alt="BitHug's Notion Profile" height="30" width="30">
-</a>
-<a href="https://www.figma.com/files/team/967853341486753922/BitHug?fuid=934829278020547580">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="BitHug's Figma Profile" height="30" width="30">
-</a>
-<a href="https://discord.com/invite/x37C3hrdAA">
-    <img src="https://i.postimg.cc/5N5wbYSK/discord-logo-png-7617.png" alt="BitHug's Discord Channel" height="30" width="30">
-</a>
-<br />
-<br />
 
 ## Individual projects
 My Portfolio: 
 
 <a href="https://gsvidal.github.io">
-  <img src="https://i.postimg.cc/R0ZtsZxq/Z7x9Riw.gif" width="50">
+  <img src="https://i.postimg.cc/R0ZtsZxq/Z7x9Riw.gif" width="80">
 </a>
 
 ## Fun facts about me:
