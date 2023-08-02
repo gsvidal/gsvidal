@@ -32,7 +32,7 @@
 <img src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" alt="Vite Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest Logo" width="50" height="50"/>
 <img src="https://testing-library.com/img/octopus-64x64.png" alt="React Testing Library Logo" width="50" height="50"/>
-<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="Tailwind CSS Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github Logo" width="50" height="50"/>
