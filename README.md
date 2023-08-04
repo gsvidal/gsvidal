@@ -68,7 +68,6 @@
 
 <br />
 
-
 ## Individual projects
 My Portfolio: 
 
