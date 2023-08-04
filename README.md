@@ -75,7 +75,7 @@ My Portfolio:
   <img src="https://i.postimg.cc/R0ZtsZxq/Z7x9Riw.gif" width="80">
 </a>
 
-## Fun facts about me:
+## Facts about me:
 
 - 🎖️ I study everyday to land a job as a Front-End Developer at a great company.
 - 🧠 I’m good at math, logic and design.
