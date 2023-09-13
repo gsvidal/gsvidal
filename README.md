@@ -1,10 +1,11 @@
-# Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Gonzalo Vidal！
-
-### Front-End React Developer
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey, I'm Gonzalo Vidal, and I build web experiences with React <img src="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" width="30px"> as a Front-End Developer. <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/rocket_1f680.gif" width="30px">
 
 ## Certificates
 
-<a style="margin: 10px" rel="noopener" target="_blank" href="https://learndigital.withgoogle.com/activate/validate-certificate-code">
+<a class="certificates__icons-item" rel="noopener" target="_blank" href="https://certificates.cs50.io/d8442942-5daf-4ea7-99f5-8ee789cc3d01.pdf?size=letter">
+  <img align=center src="https://i.postimg.cc/y8nWZd5S/cs50.png" alt="Harvard CS50" width="120" title="Harvard's CS50 Introduction to Computer Science">
+</a>
+<a class="certificates__icons-item" rel="noopener" target="_blank" href="https://learndigital.withgoogle.com/activate/validate-certificate-code">
   <img align=center src="https://lh3.googleusercontent.com/5-yf7s6KGhPFu3hm8UwGnOwloyrEK5hVervmLKfbU1YVj5qwr0dqZ-I2BaleZ14smfc8sjIhnqHbmjS7VFAMZZwS9UQK_RlX6bFmAB8=-rw" alt="Google Certificates - 2 parts" width="120" title="Google - Web Development I & II Certificates">
 </a>
 <a class="certificates__icons-item" rel="noopener" target="_blank" href="https://platzi.com/p/gonzalovidal2020/">
@@ -14,7 +15,7 @@
   <img align=center src="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg" alt="Udemy Certificates" width="100" title="Udemy Certificate">
 </a>
 <a class="certificates__icons-item" rel="noopener" target="_blank" href="https://www.credly.com/badges/233abc1a-291e-43b4-9aa4-0d97c5d0297f/linked_in?t=rhm3ox">
-  <img align=center src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" alt="CertiProf Certificates" width="100" title="CertiProf: Scrum Foundation Certificate">
+  <img align=center src="https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" alt="CertiProf Certificates" width="100" title="CertiProf: Scrum Foundation Certificate">
 </a>
 
 
@@ -75,15 +76,15 @@ My Portfolio:
   <img src="https://i.postimg.cc/R0ZtsZxq/Z7x9Riw.gif" width="80">
 </a>
 
-## Facts about me:
 
-- 🎖️ I study everyday to land a job as a Front-End Developer at a great company.
-- 🧠 I’m good at math, logic and design.
-- 🤝 I’m a team player: "Alone I can go fast but together we can go FAR".
-- 🤔 I like to understand how things work (and why).
-- 👨‍🏫	I like to teach others what I know. Also asking when is necessary.
-- 😃 Soft-skills: Respect, Empathy, Self-discipline, Creative thinking, Problem-solving/Client oriented.
-- 🏃 Hobbies: Fitness(Workout, running, healthy food), cooking Peruvian food and PC hardware enthusiast.
+## Fun Facts About Me:
+
+- 🧠 I excel in math, logic, and design, which enhances my problem-solving skills.
+- 🤝 Collaboration is my strong suit. I believe, "Alone, I can go fast, but together, we can go FAR."
+- 🤔 I have an insatiable curiosity for understanding the inner workings of things and the "why" behind them.
+- 👨‍🏫 I enjoy sharing my knowledge and am not afraid to ask questions when needed.
+- 😃 I possess essential soft skills such as respect, empathy, self-discipline, creative thinking, and a client-oriented mindset.
+- 🏃 Outside of coding, I have hobbies like: gaming 🎮, cooking 🍛 (peruvian cuisine). I'm also a PC hardware enthusiast.
 
 
 You can reach me in these platforms:
