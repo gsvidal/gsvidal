@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> **Hey, I'm Gonzalo Vidal, and I build web experiences with React** <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30px"> **as a Front-End Developer.** <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/rocket_1f680.gif" width="30px">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> **Hey, I'm Gonzalo Vidal, and I build web experiences with React** <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30px"> **as a Front-End Web Developer.** <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/rocket_1f680.gif" width="30px">
 
 ## Certificates
 
