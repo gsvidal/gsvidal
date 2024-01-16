@@ -3,7 +3,10 @@
 ## Certificates
 
 <a class="certificates__icons-item" rel="noopener" target="_blank" href="https://certificates.cs50.io/d8442942-5daf-4ea7-99f5-8ee789cc3d01.pdf?size=letter">
-  <img align=center src="https://i.postimg.cc/y8nWZd5S/cs50.png" alt="Harvard CS50" width="120" title="Harvard's CS50 Introduction to Computer Science">
+  <img align=center src="https://i.postimg.cc/Nf9PqBDt/CS50X.png" alt="Harvard's CS50 Introduction to Computer Science Certificate" width="90" height="90" title="Harvard's CS50 Introduction to Computer Science">
+</a>
+<a class="certificates__icons-item" rel="noopener" target="_blank" href="https://cs50.harvard.edu/certificates/0b1c974d-8977-4d2c-ae28-26d4c7e12a4a">
+  <img align=center src="https://i.postimg.cc/bYFFBsQL/CS50W.png" alt="Harvard's CS50 Web Programming with Python and JavaScript Certificate" width="90" height="90" title="Harvard's CS50 Web Programming with Python and JavaScript">
 </a>
 <a class="certificates__icons-item" rel="noopener" target="_blank" href="https://learndigital.withgoogle.com/activate/validate-certificate-code">
   <img align=center src="https://lh3.googleusercontent.com/5-yf7s6KGhPFu3hm8UwGnOwloyrEK5hVervmLKfbU1YVj5qwr0dqZ-I2BaleZ14smfc8sjIhnqHbmjS7VFAMZZwS9UQK_RlX6bFmAB8=-rw" alt="Google Certificates - 2 parts" width="120" title="Google - Web Development I & II Certificates">
@@ -11,9 +14,12 @@
 <a class="certificates__icons-item" rel="noopener" target="_blank" href="https://platzi.com/p/gonzalovidal2020/">
   <img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Platzi.jpg/1200px-Platzi.jpg" alt="Platzi Certificates" width="100" title="Platzi: +30 Web Development Certificates">
 </a>
-<!-- <a class="certificates__icons-item" rel="noopener" target="_blank" href="https://www.credly.com/badges/233abc1a-291e-43b4-9aa4-0d97c5d0297f/linked_in?t=rhm3ox">
+<a class="certificates__icons-item" rel="noopener" target="_blank" href="https://www.udemy.com/certificate/UC-689f3797-fd77-49ac-8350-a525e8dd6ffd/">
+  <img align=center src="https://companieslogo.com/img/orig/UDMY_BIG-4415d793.png?t=1635531363" alt="Udemy Certificate" width="100" title="Udemy: Test Driven Development Bootcamp">
+</a>
+<a class="certificates__icons-item" rel="noopener" target="_blank" href="https://www.credly.com/badges/233abc1a-291e-43b4-9aa4-0d97c5d0297f/linked_in?t=rhm3ox">
   <img align=center src="https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" alt="CertiProf Certificates" width="100" title="CertiProf: Scrum Foundation Certificate">
-</a> -->
+</a>
 
 <br />
 <br />
@@ -63,8 +69,6 @@
 </a>
 <p>Jr. Frontend Web Developer</p>
 
-<br />
-
 <a rel="noopener" target="_blank" href="https://www.globant.com/">
   <img src="https://seekvectorlogo.com/wp-content/uploads/2019/06/globant-vector-logo.png" alt="Globant Logo" width="150" title="Globant Logo">
 </a>
@@ -72,8 +76,7 @@
 
 <br />
 
-## Individual projects
-My Portfolio: 
+## Portfolio
 
 <a href="https://gsvidal.github.io">
   <img src="https://i.postimg.cc/R0ZtsZxq/Z7x9Riw.gif" width="80">
