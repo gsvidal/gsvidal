@@ -68,16 +68,18 @@
   <img src="https://codethedream.org/wp-content/uploads/2019/07/CTD_Logo_Primary-1024x216.jpg" width="180">
 </a>
 <p>Mentor Volunteer</p>
-
-<a href="https://bithug.dev">
-  <img src="https://i.postimg.cc/Z51M9sQK/logo-2.png" width="80">
-</a>
-<p>Jr. Frontend Web Developer</p>
+<br />
 
 <a rel="noopener" target="_blank" href="https://www.globant.com/">
   <img src="https://seekvectorlogo.com/wp-content/uploads/2019/06/globant-vector-logo.png" alt="Globant Logo" width="150" title="Globant Logo">
 </a>
 <p>SSr. Web UI Developer</p>
+<br />
+
+<a href="https://bithug.dev">
+  <img src="https://i.postimg.cc/Z51M9sQK/logo-2.png" width="80">
+</a>
+<p>Jr. Frontend Web Developer</p>
 
 <br />
 
