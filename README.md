@@ -93,12 +93,12 @@
 
 ## Fun Facts About Me:
 
-- 🧠 I excel in math, logic, and design, which enhances my problem-solving skills.
-- 🤝 Collaboration is my strong suit. I believe, "Alone, I can go fast, but together, we can go FAR."
-- 🤔 I have an insatiable curiosity for understanding the inner workings of things and the "why" behind them.
-- 👨‍🏫 I enjoy sharing my knowledge and am not afraid to ask questions when needed.
-- 😃 I possess essential soft skills such as respect, empathy, self-discipline, creative thinking, and a client-oriented mindset.
-- 🏃 Outside of coding, I have hobbies like: gaming 🎮, cooking 🍛 (peruvian cuisine). I'm also a PC hardware enthusiast.
+- 🧠 Strong in math, logic, and design, enhancing problem-solving skills.
+- 🤝 Collaboration is my forte; I value teamwork for greater achievements.
+- 🤔 Insatiably curious about understanding the "why" behind things.
+- 👨‍🏫 Enjoy sharing knowledge and asking questions.
+- 😃 Possess essential soft skills: respect, empathy, creativity, and client focus.
+- 🏃 Hobbies include gaming 🎮, cooking 🍛 (Peruvian cuisine), and PC hardware enthusiasm.
 
 
 You can reach me in these platforms:
