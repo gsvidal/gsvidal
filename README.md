@@ -57,7 +57,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsvidal&langs_count=10&theme=radical&layout=compact" alt="gsvidal :: Top Langs" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gsvidal&theme=onedark)](https://github.com/gsvidal/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=gsvidal&theme=onedark)](https://github.com/gsvidal/github-profile-trophy) -->
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gsvidal&show_icons=true&theme=radical" alt="gsvidal :: Profile Stats" /></p> -->
 
