@@ -64,10 +64,11 @@
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=gsvidal&theme=radical" alt="gsvidal :: Profile Stats" /></p> -->
 
 ## Experience 
-
+<!--
 <a href="https://codethedream.org/">
   <img src="https://codethedream.org/wp-content/uploads/2019/07/CTD_Logo_Primary-1024x216.jpg" width="180">
 </a>
+-->
 <p>Mentor Volunteer</p>
 <br />
 
