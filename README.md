@@ -14,13 +14,12 @@
 <a class="certificates__icons-item" rel="noopener" target="_blank" href="https://platzi.com/p/gonzalovidal2020/">
   <img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Platzi.jpg/1200px-Platzi.jpg" alt="Platzi Certificates" width="100" title="Platzi: +30 Web Development Certificates">
 </a>
-<!-- <a class="certificates__icons-item" rel="noopener" target="_blank" href="https://www.udemy.com/certificate/UC-689f3797-fd77-49ac-8350-a525e8dd6ffd/">
+<a class="certificates__icons-item" rel="noopener" target="_blank" href="https://www.udemy.com/certificate/UC-689f3797-fd77-49ac-8350-a525e8dd6ffd/">
   <img align=center src="https://companieslogo.com/img/orig/UDMY_BIG-4415d793.png?t=1635531363" alt="Udemy Certificate" width="100" title="Udemy: Test Driven Development Bootcamp">
-</a> -->
-<!-- <a class="certificates__icons-item" rel="noopener" target="_blank" href="https://www.credly.com/badges/233abc1a-291e-43b4-9aa4-0d97c5d0297f/linked_in?t=rhm3ox">
+</a>
+<a class="certificates__icons-item" rel="noopener" target="_blank" href="https://www.credly.com/badges/233abc1a-291e-43b4-9aa4-0d97c5d0297f/linked_in?t=rhm3ox">
   <img align=center src="https://images.credly.com/size/340x340/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" alt="CertiProf Certificates" width="100" title="CertiProf: Scrum Foundation Certificate">
 </a>
--->
 
 <br />
 <br />
