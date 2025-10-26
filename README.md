@@ -12,7 +12,7 @@
   <img align=center src="https://lh3.googleusercontent.com/5-yf7s6KGhPFu3hm8UwGnOwloyrEK5hVervmLKfbU1YVj5qwr0dqZ-I2BaleZ14smfc8sjIhnqHbmjS7VFAMZZwS9UQK_RlX6bFmAB8=-rw" alt="Google Certificates - 2 parts" width="120" title="Google - Web Development I & II Certificates">
 </a>
 <a class="certificates__icons-item" rel="noopener" target="_blank" href="https://platzi.com/p/gonzalovidal2020/">
-  <img align=center src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Platzi.jpg/1200px-Platzi.jpg" alt="Platzi Certificates" width="100" title="Platzi: +30 Web Development Certificates">
+  <img align=center src="https://static.platzi.com/media/uploads/Platzi_Logo_e2f36f10bc.png" alt="Platzi Certificates" width="100" title="Platzi: +30 Web Development Certificates">
 </a>
 <a class="certificates__icons-item" rel="noopener" target="_blank" href="https://www.udemy.com/certificate/UC-689f3797-fd77-49ac-8350-a525e8dd6ffd/">
   <img align=center src="https://companieslogo.com/img/orig/UDMY_BIG-4415d793.png?t=1635531363" alt="Udemy Certificate" width="100" title="Udemy: Test Driven Development Bootcamp">
@@ -31,7 +31,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Javascript Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux Logo" width="50" height="50"/>
-<img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite Logo" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" alt="Vite Logo" width="50" height="50"/>
 <img src="https://vitest.dev/logo-shadow.svg" alt="Vitest Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest Logo" width="50" height="50"/>
 <img src="https://testing-library.com/img/octopus-64x64.png" alt="React Testing Library Logo" width="50" height="50"/>
@@ -66,14 +66,14 @@
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=gsvidal&theme=radical" alt="gsvidal :: Profile Stats" /></p> -->
 
 ## Experience 
-<a href="https://codethedream.org/">
-  <img src="https://undocuhub.us/wp-content/uploads/2022/05/CTD_Logo_Primary.png" width="180">
+<a rel="noopener" target="_blank" href="https://www.adrialabs.dev/">
+  <img src="https://i.postimg.cc/sD5c6LP2/1743380825170.jpg" alt="AdriaLabs" width="150" title="AdriaLabs Logo">
 </a>
-<p>Mentor Volunteer</p>
+<p>Mid Level Fullstack Web Developer</p>
 <br />
 
 <a rel="noopener" target="_blank" href="https://www.globant.com/">
-  <img src="https://seekvectorlogo.com/wp-content/uploads/2019/06/globant-vector-logo.png" alt="Globant Logo" width="150" title="Globant Logo">
+  <img src="https://emprendedoresnews.com/wp-content/uploads/2020/08/globant-750x536.png" alt="Globant Logo" width="150" title="Globant Logo">
 </a>
 <p>SSr. Web UI Developer</p>
 <br />
@@ -83,6 +83,12 @@
 </a>
 <p>Jr. Frontend Web Developer</p>
 
+<br />
+
+<a href="https://codethedream.org/">
+  <img src="https://s3.us-east-1.amazonaws.com/files.galaxydigital.com/4887/agency/113194.jpg?20230808191634" width="180">
+</a>
+<p>Mentor Volunteer</p>
 <br />
 
 ## Portfolio
